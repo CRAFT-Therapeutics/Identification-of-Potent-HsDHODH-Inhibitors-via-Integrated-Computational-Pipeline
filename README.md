@@ -213,7 +213,7 @@ If you use this code or data in your research, please cite this repository:
 ```
 Mendonça, S.A. Targeting HsDHODH for Host-Directed Therapy:
 Machine Learning-Guided Discovery and Structural Validation.
-GitHub, 2025. https://github.com/sasmendonca/Targeting-HsDHODH-for-Host-Directed-Therapy-Machine-learning-Guided-Discovery-and-Structural-Valid
+GitHub, 2025. https://github.com/sasmendonca/Targeting-HsDHODH-for-Host-Directed-Therapy-Shape-and-Machine-learning-Guided-Discovery
 ```
 
 ## Contact
